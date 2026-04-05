@@ -19,9 +19,9 @@ This is a <sup>superscript</sup> text
 
 This is an <ins>underlined</ins> text
 
-Fake quote
+This isn't a quote
 
-> This is a reliable quote
+> This is a quote
 
 
 Some basic Git commands are:
